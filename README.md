@@ -1,4 +1,4 @@
-![Lógica de Programação, mergulhe em programação com JavaScript](img/banneraluracurso)
+![Lógica de Programação, mergulhe em programação com JavaScript](img/banneraluracurso.png)
 
 # Jogo do Número Secreto
 
