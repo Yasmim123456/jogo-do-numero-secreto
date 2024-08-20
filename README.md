@@ -5,7 +5,7 @@
 O jogo do número secreto sorteia um número aleatório de 1 a 10 para que o jogador encontre esse valor através de chutes, a cada tentativa o programa informa se o número sorteado é maior ou menor do que o digitado pelo usuário.
 
 
-![imagem da tela do jogo](img/imagem-numero-secreto.png)
+![imagem da tela do jogo](img/imagem jogo do numero secreto.png)
 
 
 ## 🔨 Funcionalidades do projeto
